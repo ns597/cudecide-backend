@@ -1,0 +1,3 @@
+- Heavy use of routes, relational databases, deployment, and authentication
+- Completed in the Hack Challenge for my Intro to Backend Development course
+- Worked in a team with an Android Developer, Designers, and other Backend Developers
